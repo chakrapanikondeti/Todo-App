@@ -1,0 +1,27 @@
+  
+ Steps to create Todo App :-
+  ---------------------------
+  
+                Application
+                    .
+                    .
+                Button Click-> Submit
+                    .
+                    .
+                FormValidation
+                     .
+                     .
+     success                        failure
+        .                              .
+        .                              .
+   Accept and store data           Error Message
+        .
+        .
+    upload on screen --> reset the Form
+        .
+        .
+  update           delete
+     .                .
+     .                .
+     <upload on screen>
+
